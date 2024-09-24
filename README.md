@@ -94,6 +94,7 @@ The main application logic which:
 
 ![faceapp2](https://github.com/user-attachments/assets/c7e4c8d0-1ba5-43b1-bcb4-2870a2137992)
 
+![show](https://github.com/user-attachments/assets/34733c8d-e105-47e7-a8e2-a18f16cc3b69)
 
 - **Face Keypoints**: Detected keypoints on the image.
 - **Segmented Face**: The segmented face overlaid on the original image.
