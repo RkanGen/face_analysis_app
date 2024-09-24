@@ -1,0 +1,4 @@
+fer 
+supervision  
+tensorflow
+mediapipe
